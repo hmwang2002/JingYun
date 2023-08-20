@@ -1,0 +1,12 @@
+<!--pages/liangjiang/liangjiang.wxml-->
+<view class="container">
+  <image class="photo" src="https://box.nju.edu.cn/f/a5b0c22512dc47c293f0/?dl=1">
+  <cover-view class="cover" style="position: absolute; left: 50rpx; top: 403rpx"></cover-view>
+  <text class="word">两江师范学堂碑</text>
+  </image>
+  <text class="text" decode="{{true}}" space="{{true}}"> &nbsp;&nbsp;&nbsp;&nbsp;两江师范学堂为清末两江总督张之洞创建，初名为三江师范学堂，1902年（清光绪二十八年），开始筹建，1904年10月开学，1905年（光绪三十一年）末，一分为二，分别改名为两江师范学堂和南京高等师范学校。南京高等师范学校于1921年在此基础上建立起东南大学。
+    &nbsp;&nbsp;&nbsp;&nbsp;清宣统二年(1910年)二月，宏育书院并入汇文书院，改名为“金陵大学”。1912年2月参照1898年宫办的“京师大学堂”名称，又定名为“金陵大学堂”，后因“京师大学堂”改名为“京师大学校”，该校随之改为“金陵大学校”，以后“京师大学校”又改名为“北京大学校”、“北京大学”，该校也再次改称为“金陵大学”。
+    &nbsp;&nbsp;&nbsp;&nbsp;两江师范学堂碑帖何人撰写已无从查考。而《金陵大学堂》碑帖由著名书法家、两江师范学堂监督（校长）李瑞清题写，具体时间无从查实，估计为1912年2月，该校定名为“金陵大学堂”时题写。 
+    &nbsp;&nbsp;&nbsp;&nbsp;现两块碑帖被南京大学镶嵌在北园东南侧一碑亭内。</text>
+</view>
+

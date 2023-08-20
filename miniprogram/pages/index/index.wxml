@@ -1,0 +1,35 @@
+<!--index.wxml-->
+<swiper class="swiper-container" indicator-dots autoplay interval="5000" duration="200">
+  <swiper-item>
+    <image src="../../photos/北大楼.jpeg" style="width: 100%;" ></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="../../photos/礼堂.jpeg" style="width: 100%;"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="../../photos/航拍.jpeg" style="width: 100%;"></image>
+  </swiper-item>
+</swiper>
+<view class="container">
+  <view class="title">鼓楼校区鲸云导览</view>
+  <view class="navigation-container">
+    <view class="flex-wrp1">
+      <view class="dorm">
+        <navigator url="../dorm/dorm" open-type="navigate"><text>宿舍</text></navigator>
+      </view>
+      <view class="eat">
+        <navigator url="../eat/eat" open-type="navigate"><text>干饭</text></navigator>
+      </view>
+    </view>
+    <view class="flex-wrp2">
+      <view class="play">
+        <navigator url="../play/play" open-type="navigate"><text>玩乐</text></navigator>
+      </view>
+      <view class="study">
+        <navigator url="../study/study" open-type="navigate"><text>学习</text></navigator>
+      </view>
+    </view>
+  </view>
+
+
+</view>

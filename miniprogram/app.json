@@ -1,0 +1,56 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/beidalou/index",
+    "pages/dorm/dorm",
+    "pages/xiaolibaitang/xiaolibaitang",
+    "pages/libaitang/libaitang",
+    "pages/dongdalou/dongdalou",
+    "pages/saizhenzhu/saizhenzhu",
+    "pages/xidalou/xidalou",
+    "pages/tushuguan/tushuguan",
+    "pages/zhongshanlou/zhongshanlou",
+    "pages/labei/labei",
+    "pages/xiaoshiguan/xiaoshiguan",
+    "pages/liangjiang/liangjiang",
+    "pages/heyingqin/heyingqin",
+    "pages/map/map",
+    "pages/eat/eat",
+    "pages/play/play",
+    "pages/study/study"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "鼓楼校区鲸云导览",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#0000ff",
+    "backgroundColor": "#f5f5f5",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "icons/tabbar.png",
+        "selectedIconPath": "icons/tabbar1.png"
+      },
+      {
+        "pagePath": "pages/map/map",
+        "text": "地图",
+        "iconPath": "icons/ic_tabbar_explore (1).png",
+        "selectedIconPath": "icons/ic_tabbar_explore.png"
+      },
+      {
+        "pagePath": "pages/dorm/dorm",
+        "text": "我的",
+        "iconPath": "icons/ic_tabbar_home_select.png",
+        "selectedIconPath": "icons/ic_tabbar_home_select (1).png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

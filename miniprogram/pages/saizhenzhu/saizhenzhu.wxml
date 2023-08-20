@@ -1,0 +1,11 @@
+<!--pages/saizhenzhu/saizhenzhu.wxml-->
+<view class="container">
+  <image class="photo" src="https://box.nju.edu.cn/f/2dca233f1cd54ffc9451/?dl=1">
+  <cover-view class="cover" style="position: absolute; left: 50rpx; top: 403rpx"></cover-view>
+  <text class="word">赛珍珠故居</text>
+  </image>
+  <text class="text" decode="{{true}}" space="{{true}}"> &nbsp;&nbsp;&nbsp;&nbsp;赛珍珠 （Pearl Sydenstricker Buck，1892年6月26日－1973年3月6日），她是美国旅华作家，曾凭借其小说《大地》（The Good  Earth），于1932年获得普利策小说奖（Pulitzer  Prize），后在1938年获得诺贝尔文学奖，也是目前同时获得普利策奖和诺贝尔奖的唯一女作家，以及作品流传语种最多的美国作家。 
+    &nbsp;&nbsp;&nbsp;&nbsp;在1921年下半年，赛珍珠随丈夫布克来到南京，受聘于美国教会所办的金陵大学（1952年并入南京大学），并住进了校内一幢单门独院的小楼，即今平仓巷5号，南京大学北园赛珍珠故居。 
+    &nbsp;&nbsp;&nbsp;&nbsp;现在，在鼓楼校区僻静的一隅，仍坐落着一所灰砖小洋楼，绿植环绕。天气渐凉，近旁的一株枫树叶已半红，与红漆木门互相映照，而木门便写有几个鎏金的繁体汉字——赛珍珠纪念馆。 </text>
+</view>
+

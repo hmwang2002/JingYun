@@ -1,0 +1,9 @@
+<!--pages/dongdalou/dongdalou.wxml-->
+<view class="container">
+  <image class="photo" src="https://box.nju.edu.cn/f/f4c799e03ec64dc9aa35/?dl=1">
+  <cover-view class="cover" style="position: absolute; left: 50rpx; top: 403rpx"></cover-view>
+  <text class="word">东大楼</text>
+  </image>
+  <text class="text" decode="{{true}}" space="{{true}}"> &nbsp;&nbsp;&nbsp;&nbsp;东大楼，东大楼位于北大楼东南侧，建于1913年。时称“科学馆”。由建筑设计师齐兆昌设计，陈明记营造厂承建。建筑面积3905平方米。大楼设计采用中国北方建筑形式，大楼三层，地下一层，砖木结构。歌山顶，简瓦屋面，屋顶脊中加脊，中部高耸，外墙用青砖砌筑，速回勾缠。大楼入口处建有突出的门套。</text>
+</view>
+

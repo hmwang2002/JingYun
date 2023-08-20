@@ -1,0 +1,9 @@
+<!--pages/heyingqin/heyingqin.wxml-->
+<view class="container">
+  <image class="photo" src="https://box.nju.edu.cn/f/79d3344e749e4cedb531/?dl=1">
+  <cover-view class="cover" style="position: absolute; left: 50rpx; top: 403rpx"></cover-view>
+  <text class="word">何应钦公馆</text>
+  </image>
+  <text class="text" decode="{{true}}" space="{{true}}"> &nbsp;&nbsp;&nbsp;&nbsp;何应钦故居建筑具有西班牙风格，是原国民党高级将领何应钦在南京多处公馆中保存最完好的一处。南北朝时，此地为达官贵族的斗鸡寻欢之地，故人们称它为“斗鸡闸”。</text>
+</view>
+

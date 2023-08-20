@@ -1,0 +1,12 @@
+<!--pages/beidalou/index.wxml-->
+<view class="container">
+  <image class="photo" src="../../photos/北大楼.jpeg">
+  <cover-view class="cover" style="position: absolute; left: 50rpx; top: 403rpx"></cover-view>
+  <text class="word">北大楼</text>
+  </image>
+  <text class="text" decode="{{true}}" space="{{true}}"> &nbsp;&nbsp;&nbsp;&nbsp;塔楼，名为北大楼，建于1919年，由美国建筑师司迈尔(A. G. Small)设计。南京大学最负盛名的代表建筑，恐怕非北大楼莫属。北大楼既是南大的地标性建筑，又是南京的民国建筑代表、新金陵四十八景之一。
+&nbsp;&nbsp;&nbsp;&nbsp;北大楼其实与北大没有任何关系，是指金陵大学的北大楼，与东大楼、西大楼相对而言。金陵大学为南京大学的前身之一，是一所1888年美国基督教在南京创办的教会大学。1952年院系调整，金陵大学主体并入南京大学。在北大楼南边，有一方“金陵苑”碑刻，记述了金陵大学的光辉历程。</text>
+</view>
+
+
+

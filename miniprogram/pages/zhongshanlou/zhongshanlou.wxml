@@ -1,0 +1,9 @@
+<!--pages/zhongshanlou/zhongshanlou.wxml-->
+<view class="container">
+  <image class="photo" src="https://box.nju.edu.cn/f/eb8a75da7c1e4e5ebc44/?dl=1">
+  <cover-view class="cover" style="position: absolute; left: 50rpx; top: 403rpx"></cover-view>
+  <text class="word">中山楼</text>
+  </image>
+  <text class="text" decode="{{true}}" space="{{true}}"> &nbsp;&nbsp;&nbsp;&nbsp;中山楼坐落于江苏省南京市鼓楼区汉口路22号南京大学鼓楼校区南园北门东侧，松林楼对面，是孙中山先生在南京的故居。建筑为二层楼，银灰色，2002年和2012年南大校庆时曾加以整修，现作为南京大学学生工作处的办公所。</text>
+</view>
+

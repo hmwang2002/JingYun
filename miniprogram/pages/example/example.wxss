@@ -1,0 +1,47 @@
+page {
+  background-color: rgba(234, 231, 236, 0.404);
+}
+
+.container{
+  border-radius: 50rpx;
+  background-color:white;
+  margin-left: 50rpx;
+  margin-right: 50rpx;
+  box-shadow:0rpx 2rpx 5rpx 5rpx #c8c3c3;
+  height: 100%;
+}
+
+.photo{
+  z-index: 100;
+  border-top-left-radius: 50rpx;
+  border-top-right-radius: 50rpx;
+  width: 100%;
+  height: 500rpx;
+}
+
+.cover{
+  position: absolute;
+  top: 410rpx;
+  z-index: 200;
+  width: 652rpx;
+  height: 100rpx;
+  background:rgba(17, 0, 0, 0.589);
+}
+
+.word{
+  position: absolute;
+  top: 415rpx;
+  left: 70rpx;
+  z-index: 300;
+  color: white;
+  font-size: x-large;
+}
+
+.text{
+  z-index: 100;
+  padding: 15rpx;
+  text-align:justify;
+  font-weight: bold;
+  font-size: small;
+
+}

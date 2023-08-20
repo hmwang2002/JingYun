@@ -1,0 +1,8 @@
+<!--pages/xiaolibaitang/xiaolibaitang.wxml-->
+<view class="container">
+  <image class="photo" src="https://box.nju.edu.cn/f/90863783de034f3db42a/?dl=1" mode="aspectFill">
+  <cover-view class="cover" style="position: absolute; left: 50rpx; top: 403rpx"></cover-view>
+  <text class="word">小礼拜堂</text>
+  </image>
+  <text class="text" decode="{{true}}" space="{{true}}"> &nbsp;&nbsp;&nbsp;&nbsp;小礼拜堂，或称小礼堂，建于1916年，由中国建筑师齐兆昌、美国芝加哥珀金斯建筑师事务所共同设计。沿着北大楼的中轴线一直往南走，在教学楼东南方向的小土山坡上，是金陵大学的小礼堂。其形状特别酷似《西游记》中孙悟空化身的土地庙。小礼堂前有一座钟亭，轻轻敲触便会响起。</text>
+</view>

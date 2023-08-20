@@ -1,0 +1,11 @@
+<!--pages/tushuguan/tushuguan.wxml-->
+<view class="container">
+  <image class="photo" src="https://box.nju.edu.cn/f/1f222aaf0d504c3aa3fe/?dl=1">
+  <cover-view class="cover" style="position: absolute; left: 50rpx; top: 403rpx"></cover-view>
+  <text class="word">图书馆</text>
+  </image>
+  <text class="text" decode="{{true}}" space="{{true}}"> &nbsp;&nbsp;&nbsp;&nbsp;南京大学图书馆馆藏丰富，经长期积累，形成了比较系统、完整的综合性的藏书体系。至 2007 年底，总藏书量达到 491.70 万册（含院系资料室）。馆藏古籍线装书近 40 万册，其中善本古籍有3000余种、 3 万余册。地方文献、古代目录学文献以及丛书的收藏已形成特色。古代地方志共收藏有 4000 余种，近4万册，在全国各大图书馆中处于领先地位。本馆收藏了多个国家和地区的多个语种的期刊，尤以物理、生物、地学、数学为特色。1949年以前的中文社会科学书刊与自然科学收藏也比较丰富。
+    &nbsp;&nbsp;&nbsp;&nbsp;近年来，南京大学图书馆加大了发展电子文献的力度，购买了多种网络数据库、光盘数据库。至2007年底，可提供利用的电子全文包括：中文期刊 16529 种、外文期刊 17272 种、中文图书 54 万种、外文图书 26.50 万种，外国硕、博士学位论文 10 万余篇。
+&nbsp;&nbsp;&nbsp;&nbsp;截至2018年底，图书馆藏书：中文图书4269232册，中文报刊524466册，外文图书948954册，外文报刊511979册。；电子书583万册。</text>
+</view>
+

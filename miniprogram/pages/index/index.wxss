@@ -1,0 +1,124 @@
+/**index.wxss**/
+
+page {
+  background-color: #f6f6f6;
+  padding-bottom: 60rpx;
+}
+
+.swiper-container {
+  height: 500rpx;
+  width: 100%;
+}
+
+.title {
+  padding-top: 10rpx;
+  background: -webkit-linear-gradient(left, #6205f7, #cf0ce9);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 500;
+  font-size: 44rpx; 
+  margin-bottom: 40rpx;
+}
+
+.flex-wrp1{
+  display: flex;
+  flex-direction: row;
+}
+
+.dorm {
+  display: inline-block;
+  margin: 20px;
+  padding: 1em 2em;
+  background: transparent;
+  border: 2px;
+  border-radius: 3px;
+  font-weight: 1000;
+  text-align: center;
+  box-shadow: 0px 2px 4px #67c0f0,0px 1px 2px #bf2fcb;
+  height: 50%;
+  width: 150rpx;
+}
+ 
+ 
+.dorm text {
+  background: -webkit-linear-gradient(left, #67c0f0, #bf2fcb);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: x-large
+}
+
+.eat {
+  display: inline-block;
+  margin: 20px;
+  padding: 1em 2em;
+  background: transparent;
+  border: 2px;
+  border-radius: 3px;
+  font-weight: 1000;
+  text-align: center;
+  box-shadow: 0px 2px 4px #67c0f0,0px 1px 2px #bf2fcb;
+  height: 50%;
+  width: 150rpx;
+}
+ 
+ 
+.eat text {
+  background: -webkit-linear-gradient(left, #67c0f0, #bf2fcb);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: x-large
+}
+
+.flex-wrp2{
+  display: flex;
+  flex-direction: row;
+}
+
+.play {
+  display: inline-block;
+  margin: 20px;
+  padding: 1em 2em;
+  background: transparent;
+  border: 2px;
+  border-radius: 3px;
+  font-weight: 1000;
+  text-align: center;
+  box-shadow: 0px 2px 4px #67c0f0,0px 1px 2px #bf2fcb;
+  height: 50%;
+  width: 150rpx;
+}
+ 
+ 
+.play text {
+  background: -webkit-linear-gradient(left, #67c0f0, #bf2fcb);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: x-large
+}
+
+.study {
+  display: inline-block;
+  margin: 20px;
+  padding: 1em 2em;
+  background: transparent;
+  border: 2px;
+  border-radius: 3px;
+  font-weight: 1000;
+  text-align: center;
+  box-shadow: 0px 2px 4px #67c0f0,0px 1px 2px #bf2fcb;
+  height: 50%;
+  width: 150rpx;
+}
+ 
+ 
+.study text {
+  background: -webkit-linear-gradient(left, #67c0f0, #bf2fcb);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: x-large
+}

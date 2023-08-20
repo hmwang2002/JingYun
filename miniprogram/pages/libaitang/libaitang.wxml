@@ -1,0 +1,9 @@
+<!--pages/libaitang/libaitang.wxml-->
+<view class="container">
+  <image class="photo" src="../../photos/礼堂.jpeg">
+  <cover-view class="cover" style="position: absolute; left: 50rpx; top: 403rpx"></cover-view>
+  <text class="word">礼拜堂</text>
+  </image>
+  <text class="text" decode="{{true}}" space="{{true}}"> &nbsp;&nbsp;&nbsp;&nbsp;礼拜堂，现称大礼堂，建于1917年，由美国珀金斯建筑事务所设计。北大楼西南角上的大礼堂，也是金陵大学的遗产——金陵大学礼拜堂，亦建于1917年，仿古的庙宇式建筑，已成为南大重要的文化、学术交流中心，经常举行各种重要的学术交流、文艺演出活动。
+</text>
+</view>
